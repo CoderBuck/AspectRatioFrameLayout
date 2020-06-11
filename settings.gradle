@@ -1,0 +1,3 @@
+rootProject.name='AspectRatioFrameLayout'
+include ':app'
+include ':aspect-ratio-framelayout'
