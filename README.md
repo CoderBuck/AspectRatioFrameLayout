@@ -1,6 +1,6 @@
 # AspectRatioFrameLayout
 
-固定宽高比的 FrameLayout，可以指定宽度自适应高度，也可以指定高度，自适应宽度。
+固定宽高比的 FrameLayout，可以指定宽度，自适应高度，也可以指定高度，自适应宽度。
 
 ## 依赖
 
