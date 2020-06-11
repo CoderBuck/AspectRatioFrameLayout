@@ -14,12 +14,10 @@ implementation 'me.buck.customview:aspect-ratio-framelayout:1.0.0'
 
 ```
 <me.buck.customview.AspectRatioFrameLayout
-    android:layout_marginTop="20dp"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/colorAccent"
     app:aspect_ratio="5:3" />
-
 ```
 
 ![image](/art/art.png)
