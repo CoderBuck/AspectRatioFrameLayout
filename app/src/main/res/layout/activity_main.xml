@@ -17,6 +17,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/colorAccent"
-        app:aspect_ratio="2:1" />
+        app:aspect_ratio="5:3" />
 
 </LinearLayout>
